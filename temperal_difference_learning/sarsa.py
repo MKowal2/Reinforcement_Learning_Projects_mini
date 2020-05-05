@@ -1,7 +1,4 @@
-# Assignment 2 ---> Question 2 - SARSA
-
-# Matthew Kowal – 500884938
-# Jae Duk Seo – 500633241
+# SARSA
 
 # importing libraries
 import numpy as np
