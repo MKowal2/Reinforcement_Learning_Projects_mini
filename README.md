@@ -1,4 +1,4 @@
-# Reinforcement_Learning_Projects_mini
+# Reinforcement Learning Projects
 A collection of RL algorithms implemented from scratch. Based on textbook Reinforcement Learning (Sutton &amp; Barto 2nd Edition)
 
 
