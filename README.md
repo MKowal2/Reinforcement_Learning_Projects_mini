@@ -5,7 +5,9 @@ In this repo, there are two main classes of RL algorithms implemented, based off
 
 The second group of algorithms are temporal difference learning algorithms. I have implemented 3 algorithms which attempt to end up in the top right corner of a 10x10 grid, which is split into 4 equal squares, each square having a single doorway to access the other squares. 
 
-![Ryerson](board.png)
+<p align="center">
+  <img src="board.png" height="300">
+</p>
 
 The algorithm needs to learn to travel through these doorways and end up in the top right corner (G). The three algorithms implemented are:
 - Monte Carlo control with epsilon-soft policies
