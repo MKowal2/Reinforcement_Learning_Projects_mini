@@ -1,7 +1,4 @@
-# Assignment 2 ---> Question 2 - Monte Carlo
-
-# Matthew Kowal – 500884938
-# Jae Duk Seo – 500633241
+# Monte Carlo
 
 # importing libraries
 import numpy as np
