@@ -1,9 +1,7 @@
-# Matthew Kowal: Reinforcement Learning - Assignment 1
+# Matthew Kowal: Reinforcement Learning
 import math
 import random
 import numpy as np
-
-# Q2 ~~~~~~~~~~~~~~~~~~~~~~~
 
 # Setting the hyperparameters
 alpha_inaction = 0.2
@@ -128,7 +126,7 @@ def linear_reward_penalty(alpha, beta, d):
 time, optimal_choice_tracker, average_reward_tracker = linear_reward_inaction(alpha = alpha_penalty, d = k)
 
 
-# Running the algorithm 100 times
+# Running the algorithm 100 times - Uncomment below
 
 # average_optimal_choice = []
 # average_reward = []
