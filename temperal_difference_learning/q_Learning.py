@@ -1,8 +1,4 @@
-# Assignment 2 ---> Question 2 - Q-Learning
-
-# Matthew Kowal – 500884938
-# Jae Duk Seo – 500633241
-
+# Q-Learning
 
 # importing libraries
 import numpy as np
