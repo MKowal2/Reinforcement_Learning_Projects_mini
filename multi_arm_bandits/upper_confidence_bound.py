@@ -1,10 +1,8 @@
-# Matthew Kowal: Reinforcement Learning - Assignment 1
+# Matthew Kowal: Reinforcement Learning
 import math
 import random
 from operator import add
 import numpy as np
-
-# Q1 ~~~~~~~~~~~~~~~~~~~~~~~
 
 # Initializing hyperparameters
 N = 5000
@@ -86,6 +84,7 @@ time, optimal_choice_tracker, average_reward_tracker = ucb(num_steps = N,arms = 
 
 
 # ----- Running the algorithm 100 times ------
+# Uncomment below
 
 # average_optimal_choice = []
 # average_reward = []
