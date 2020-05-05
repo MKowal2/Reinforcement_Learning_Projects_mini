@@ -1,10 +1,8 @@
-# # Matthew Kowal: Reinforcement Learning - Assignment 1
+# # Matthew Kowal: Reinforcement Learning
 import math
 import random
 from operator import add
 import numpy as np
-
-# Q3 ~~~~~~~~~~~~~~~~~~~~~~~
 
 rows = 3
 cols = 3
